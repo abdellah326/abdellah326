@@ -9,6 +9,7 @@
 <br/>
 
 ### TECH STACK
+| | |
 | :--- | :--- |
 | **AI / ML** | `Scikit-learn` • `TensorFlow` • `Keras` • `spaCy` • `LSTM` • `CNN` • `K-Means` • `SVM` • `Random Forest` • ` Régression` • `Hierarchical Clustering` |
 | **Data Engineering** | `Pandas` • `NumPy` • `Spark` • `Hadoop` • `Talend` • `ETL` • `Selenium` • `BeautifulSoup` • `knime` |
