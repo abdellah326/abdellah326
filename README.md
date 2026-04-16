@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Abdellah Alaoui Mhamdi</h1>
   <p><strong>AI & Data Science Student</strong></p>
-  <p>I build things with data and AI – from raw pipelines and predictive models to dashboards and web applications. I care about clean code, practical systems, and making data actually useful.</p>
+  <p>AI & Data Science student — passionate about building intelligent systems, automating data pipelines, and turning raw data into real decisions.
+
+</p>
 </div>
 
 <br/>
 
 ### TECH STACK
 
-| | |
-| :--- | :--- |
 | **AI / ML** | `Scikit-learn` • `TensorFlow` • `Keras` • `spaCy` • `LSTM` • `CNN` • `K-Means` • `SVM` • `Random Forest` • ` Régression` • `Hierarchical Clustering` |
 | **Data Engineering** | `Pandas` • `NumPy` • `Spark` • `Hadoop` • `Talend` • `ETL` • `Selenium` • `BeautifulSoup` • `knime` |
 | **Databases** | `PostgreSQL` • `Oracle` • `PL/SQL` • `MongoDB` • `Redis` • `Cassandra` |
